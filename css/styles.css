@@ -1,0 +1,16 @@
+.header-main {
+    margin-top: 100px;
+}
+
+.intro {
+    background-image: url(../images/mugs1.jpg);
+    background-size: cover;
+}
+
+.header-m-left {
+    margin-left: 50px;
+}
+
+.header-m-left a:not(:last-child) {
+    margin-right: 10px;
+}

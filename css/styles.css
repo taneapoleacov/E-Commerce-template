@@ -30,18 +30,6 @@
     position: relative;
 }
 
-.search-menu {
-    position:absolute;
-    top:100%;
-    left: auto;
-    right:0;
-    z-index:1100;
-    display:none;
-    float:right;
-    text-align:right;
-    background-color:#fff;
-}
-
 .form-control {
     height: calc(1.5em + 1.5rem + 4px);
 }
@@ -54,6 +42,10 @@
 .card-product .img-wrap {
     height: 300px;
     border-radius: 0;
+}
+
+.section-m-top {
+    margin-top: 90px;
 }
 
 

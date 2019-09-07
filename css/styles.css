@@ -60,7 +60,52 @@
     margin-left: 80px;
 }
 
+.registration-form {
+    padding-top: 110px;
+    padding-bottom: 15px;
+}
 
+footer {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+.row aside:not(:last-child) {
+    margin-right: auto;
+}
+
+.map-container-section {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.md-form i, .ic i {
+    background: black;
+	padding: 10px;
+	border-radius: 0;
+}
+
+.md-form .fas, .ic .fas {
+    color: lightgray;
+}
+
+.btn-group:hover > a {
+    color: white;
+}
+
+.btn-group > a {
+    margin-top: 10px;
+    margin-right: 15px;
+}
 
 
 
